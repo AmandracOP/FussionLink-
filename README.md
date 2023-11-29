@@ -1,4 +1,4 @@
-# FussionLink-
+# FussionLink
 
 ## About
 A social media app
