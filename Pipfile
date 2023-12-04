@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit = "*"
-tinydb = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "*"
+python_version = "3.8"
