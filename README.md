@@ -25,9 +25,9 @@ FussionLink is a social media app built using Streamlit and TinyDB. It allows us
    streamlit run app.py
    
 **The app will be accessible at http://localhost:8501 in your web browser.**
-###Screenshots
-<!-- Add screenshots or images of your project output here -->
-<!-- ![Screenshot 1](C:\Users\DELL\Pictures\Screenshots\Screenshot 2023-11-30 084938.png) -->
+
+### Screenshots
+[Screenshot 1](C:\Users\DELL\Pictures\Screenshots\Screenshot 2023-11-30 084938.png)
 <!-- ![Screenshot 2](C:\Users\DELL\Pictures\Screenshots\Screenshot 2023-11-30 085013.png) -->
 
    
