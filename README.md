@@ -1,7 +1,5 @@
 # FussionLink
 
-# FussionLink
-
 ## About
 FussionLink is a social media app built using Streamlit and TinyDB.
 
